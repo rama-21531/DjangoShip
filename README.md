@@ -2,7 +2,7 @@
 
 ![AWS](https://imgur.com/wLMcRHS.jpg)
 
-**This article will deploy a Django-based application onto AWS using ECS (Elastic Container Service) and ECR (Elastic Container Registry). We start by creating the docker image of our application and pushing it to ECR. After that, we create the instance and deploy the application on AWS using ECS. Next, we ensure the application is running correctly using Django’s built-in web server.**
+**This article will deploy a Django-based application onto AWS using ECS (Elastic Container Service) and ECR (Elastic Container Registry). We start by creating the docker image of our application and pushing it to ECR. After that, we create the instance and deploy the application on AWS using ECS. Next, we ensure the application is running correctly using Django's built-in web server.**
 
 ## Prerequisite
 
@@ -122,15 +122,13 @@ To fulfill some of these factors, one can also use the `AWS Beanstalk` service t
 
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
+This project is crafted by **Rama Krishna Palnati** 💡.  
+I'd love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+- **Email**: [Ramakrishnap4121@gmail.com](mailto:Ramakrishnap4121@gmail.com)  
+- **LinkedIn**: [Rama Palnati](https://www.linkedin.com/in/rama-palnati-530165376/)  
 
 ---
 
